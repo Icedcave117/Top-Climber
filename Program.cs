@@ -128,4 +128,4 @@ while(!WindowShouldClose())
     EndDrawing();
 }
 
-WindowShouldClose();
+CloseWindow();
